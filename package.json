@@ -1,8 +1,8 @@
 {
   "name": "edp-module-compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EDP Module Compiler",
-  "main": "index.js",
+  "main": "src/compiler.js",
   "scripts": {
     "test": "mocha"
   },
