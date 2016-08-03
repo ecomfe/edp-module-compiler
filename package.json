@@ -1,0 +1,29 @@
+{
+  "name": "edp-module-compiler",
+  "version": "1.0.0",
+  "description": "EDP Module Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecomfe/edp-module-compiler.git"
+  },
+  "author": "leeight@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edp-module-compiler/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edp-module-compiler#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.0.0"
+  },
+  "dependencies": {
+    "edp-core": "^1.0.32",
+    "escodegen": "^1.8.0",
+    "estraverse": "^4.2.0",
+    "underscore": "^1.8.3"
+  }
+}
